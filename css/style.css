@@ -1,0 +1,19 @@
+ div{
+ 	    background: #ececec;
+    width: 1200px;
+    margin: auto;
+ }
+ table{
+ 	width: 100%;
+
+ }
+ tr{
+    text-align: center;
+}
+ th{
+    background: #043e71;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 5px;
+}
+ td{}
